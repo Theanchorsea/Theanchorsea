@@ -1,0 +1,8 @@
+- Hi! I am Theanchorsea.
+- I am currently a high school student aspiring to be a game developer
+- I like to play games and read in my free time
+- I am currently learning general programming concepts and terms.
+- I plan to learn primarily the programming language C# together with Unity game engine.
+- I am planning to also learn a little bit of python and typescript for misc purposes
+- I might transition into C++ and unreal engine in the future.
+- I would also like to know about other applications and software
